@@ -1,17 +1,3 @@
-'''
----------------------------------------------------------ASSIGNMENT-1----------------------------------------------------
-                                                CS5040: LINEAR OPTIMIZATION
-GROUP MEMBERS: 
-KULDEEP GAUTAM      (CS20MTECH01004)
-SUBODH NIGAM        (CS20MTECH01006)
-VISHAL SINGH YADAV  (CS20MTECH01001)
--------------------------------------------------------------------------------------------------------------------------
-
-QUES-2: Simplex Algorithm for the DEGENERATE case.
-
--------------------------------------------------------------------------------------------------------------------------
-'''
-
 import numpy as np 
 def degeneracyremove(b):
     rows = len(b)
